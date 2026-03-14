@@ -9,10 +9,11 @@ I touch grass once a month to keep the balance 🌱
 Cough in screen 💻
 
 ## 🧰 tech stack  
-• 🐍 Python  
+• 🐍 Python / Java 
 • 💻 C / C++  
 • 🌐 HTML / CSS / JS  
-• 🐧 Linux tooling  
+• 💽 SQL
+• 🐧 Linux tooling / DSA
 
 ## 🖥️ daily drivers  
 • 🐧 Fedora (Wayland)  
