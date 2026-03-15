@@ -1,6 +1,6 @@
 ## 👾 About-me.md  
-Yo. i’m StarrLord. Certified Autonomous. 
-Developer since December 2019.
+Yo. i’m StarrLord.  Certified Autonomous.  
+Developer since December 2019. 
 Access StarrBin here: https://binstarrlord.web.app
 
 ## 🧠 vibe check / perspective  
