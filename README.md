@@ -18,7 +18,7 @@ Cough in screen 💻
 
 ## 🖥️ daily drivers  
 • 🐧 Fedora (Wayland)  
-• 🍎 macOS 
+• 🍎 macOS    
 • 🪟 Windows
 
 ## 📂 ongoing experiments  
