@@ -18,7 +18,8 @@ Cough in screen 💻
 
 ## 🖥️ daily drivers  
 • 🐧 Fedora (Wayland)  
-• 🍎 macOS  
+• 🍎 macOS 
+• 🪟 Windows
 
 ## 📂 ongoing experiments  
 • 🧠 Hackerrank & Codeforces  
@@ -27,7 +28,6 @@ Cough in screen 💻
 
 ## 📡 my little corners of the net  
 • ✈️ Telegram: @Starrlord_Edg  
-• 💼 LinkedIn: TBA  
 • 📸 Instagram: thephantomdeluxe_  
 
 ## 💀 past lives  
