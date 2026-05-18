@@ -11,7 +11,7 @@ Cough in screen 💻
 
 ## 🧰 tech stack  
 • 🐍 Python / Java  
-• 💻 C / C++  
+• 💻 C / C++ / Node.js  
 • 🌐 HTML / CSS / JS  
 • 💽 SQL  
 • 🐧 Linux tooling / DSA  
