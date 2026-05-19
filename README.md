@@ -13,7 +13,7 @@ Cough in screen 💻
 • 🐍 Python / Java  
 • 💻 C / C++ / Node.js  
 • 🌐 HTML / CSS / JS  
-• 💽 SQL  
+• 💽 SQL / Tailwind  
 • 🐧 Linux tooling / DSA  
 
 ## 🖥️ daily drivers  
